@@ -1,1 +1,1 @@
-# ruby_exercises
+From the Odin Project Ruby Exercise
