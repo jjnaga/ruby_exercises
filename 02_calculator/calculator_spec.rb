@@ -80,7 +80,7 @@ end
 describe "#multiply" do
 
   it "multiplies two numbers"
-
+    expect(multiply)
   it "multiplies several numbers"
   
 end
